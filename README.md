@@ -1,2 +1,3 @@
 # CS205 - Software Engineering
 This is a project my Software Engineering class (Spring 2018).
+the project is requesting that my development team design and produce a robust, flexible and scalable open source emergency response and awareness system that organizes First Responder Actions, and facilitates the public response in an emergency situation.The goal of the project is to design and develop a software that will promote effectiveness and efficiency in emergency response.The app is designed to instantly notify and connect people in any emergency situations which might happen now or in the future. It produces an open source emergency alert, response and awareness system, and it needs to be flexible: available to different stakeholders on their machines
